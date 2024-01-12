@@ -31,7 +31,7 @@ The project follows the stacked architecture, which promotes separation of conce
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/PrathameshSaraf/celebrate
    ```
 
 2. Install dependencies:   
